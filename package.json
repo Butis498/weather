@@ -1,7 +1,7 @@
 {
   "name": "weather",
   "version": "1.0.0",
-  "description": "",
+  "description": "rememaber installing the libraries",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "dependencies": {
     "axios": "^0.18.0",
     "yargs": "^13.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Butis498/weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Butis498/weather/issues"
+  },
+  "homepage": "https://github.com/Butis498/weather#readme"
 }

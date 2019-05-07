@@ -22,15 +22,17 @@ const getLocation = async(dir) => {
     const direction = data.name;
     const lat = data.lat;
     const lon = data.lon;
-    const
+
 
 
     return {
         direction,
-
         lat,
         lon
     }
+
+
+
 }
 
 
